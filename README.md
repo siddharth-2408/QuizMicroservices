@@ -289,8 +289,6 @@ Microservices/
 ## 🙏 Acknowledgments
 
 This project was built as part of my microservices learning journey. Special thanks to:
-- The Spring community for excellent documentation
-- Tutorial creators who make complex concepts accessible
-- Fellow developers sharing their experiences
+- Telusko
 
 ---
